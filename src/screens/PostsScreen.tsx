@@ -6,7 +6,7 @@ import { PostCard } from '../components/PostCard';
 import { fetchPosts } from '../services/api';
 import type { Post } from '../types/post';
 
-// Single source of truth for screen status instead of multiple boolean states (e.g. isLoading, isError, isSuccess)
+// Single source of truth for screen status instead of multiple boolean states
 type LoadState = 'loading' | 'error' | 'success';
 
 function PostsHeader() {
