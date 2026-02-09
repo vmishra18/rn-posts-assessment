@@ -2,6 +2,17 @@
 
 A React Native app that fetches posts from a public API and displays them in a list of cards, including basic loading and error handling with a retry option.
 
+## Screenshots
+
+### Error state
+<img width="" height="320" alt="Screenshot 2026-02-09 at 1 12 07 AM" src="https://github.com/user-attachments/assets/827cb7e1-cab3-4e15-987d-a9318768c1c3" />
+
+### Loaded posts (collapsed)
+<img width="" height="320" alt="Screenshot 2026-02-09 at 1 12 14 AM" src="https://github.com/user-attachments/assets/f3cd61c7-ae17-4c6b-b2a9-213dfd056429" />
+
+### Expanded post
+<img width="" height="320" alt="Screenshot 2026-02-09 at 1 12 16 AM" src="https://github.com/user-attachments/assets/f013fc2b-e917-49f5-8322-f6d9b906d6b9" />
+
 ## Prerequisites
 
 - Node.js 20+
